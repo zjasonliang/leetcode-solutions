@@ -1,3 +1,5 @@
+import java.math.BigInteger;
+
 public class FirstBadVersion {
     private int first;
 
